@@ -1,0 +1,15 @@
+{
+    "build": {
+      "development": {
+        "env": {
+          "FATSECRET_CONSUMER_KEY": "your_key"
+        }
+      },
+      "production": {
+        "env": {
+          "FATSECRET_CONSUMER_KEY": "your_key"
+        }
+      }
+    }
+  }
+  
