@@ -19,7 +19,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Spoonacular API configuration
 const API_URL = 'https://api.spoonacular.com/recipes';
-const API_KEY = '97fb1a3b54ff43339fbb8fc58bb28619'; // Replace with your Spoonacular API key
+const API_KEY = 'Your_API_Key'; // Replace with your Spoonacular API key
 
 const RecipesScreen = () => {
   const router = useRouter();
